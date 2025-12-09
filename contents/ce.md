@@ -2,8 +2,8 @@
 title: 稀奇古怪的中国经济
 description: 这是一篇文章
 excerpt: 这是一篇文章
-datetime: 2025-12-08T18:22:00.322+00:00
-slug: test
+datetime: 2025-12-08T18:23:00.322+00:00
+slug: ce
 featured: true
 category: misc
 tags:
