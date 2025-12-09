@@ -22,4 +22,4 @@ language: efg
 
 请访问：
 
-https://www.youtube.com/embed/asKQbk7AcJU
+[视频](https://www.youtube.com/embed/asKQbk7AcJU)
