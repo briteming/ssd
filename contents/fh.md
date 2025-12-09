@@ -2,8 +2,8 @@
 title: 战马
 description: 这是一篇文章
 excerpt: 这是一篇文章
-datetime: 2025-12-08T18:22:00.322+00:00
-slug: test
+datetime: 2025-12-08T18:25:00.322+00:00
+slug: fh
 featured: true
 category: misc
 tags:
